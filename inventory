@@ -1,0 +1,5 @@
+[linux]
+node-4.deutero.lab.psi.pnq2.redhat.com
+
+[all:vars]
+ansible_ssh_private_key_file=~/.ssh/id_rsa
